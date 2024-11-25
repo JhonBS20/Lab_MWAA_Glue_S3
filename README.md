@@ -20,4 +20,4 @@ Servicios:
 
 ## Arquitectura
 
-![Cars AWS Arquitecture](https://github.com/JhonBS20/Lab_Olympics_Data_Analytics_Azure/blob/main/Tokyo%20Olympics%20Arquitecture.png?raw=true)
+![Cars AWS Arquitecture](mwaa-data-pipeline-architecture.png)
