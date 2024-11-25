@@ -14,6 +14,7 @@ Servicios:
 - AWS Lambda
 - AWS Glue
 - Amazon Athena
+- Amazon VPC
 - Amazon CloudWatch
 - Amazon EventBridge
 - AWS Identity and Access Management (IAM)
